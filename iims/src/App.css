@@ -1,7 +1,8 @@
 /* Add a separate class for the logo */
 .navbar-logo {
   height: 40px; /* Adjust size as needed */
-  margin-right: 20px; /* Space between logo and text */
+  margin-right: 20px; 
+  background-color: burlywood;/* Space between logo and text */
 }
 
 .MuiToolbar-root {
